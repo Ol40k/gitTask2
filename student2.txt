@@ -1,11 +1,15 @@
 first
 second
 <<<<<<< HEAD
+<<<<<<< HEAD
 third
 second_branch
 second_branch_2
 
 second_branch >>>>>>> 5f6b902 (first commit on new_branch)
+=======
+third
+>>>>>>> parent of 5f6b902 (first commit on new_branch)
 =======
 third
 >>>>>>> parent of 5f6b902 (first commit on new_branch)
